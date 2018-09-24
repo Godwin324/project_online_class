@@ -59,6 +59,7 @@ function serverHandler(request, response) {
             response.end();
             return;
         }
+		
 
         var stats;
 
