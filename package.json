@@ -2,5 +2,7 @@
   "name": "project-online-class",
   "version": "0.0.1",
   "description": "Fallback script",
-  "dependencies": {}
+  "dependencies": {
+      "socket.io": "latest"
+}
 }
